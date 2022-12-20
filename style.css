@@ -1,0 +1,115 @@
+ #founder{
+    /*
+    border-radius:50%; */
+    border:6px solid#EFB0C9;
+    width:200px;
+}
+
+@font-face {
+    font-family:Happy;
+    src: url("HappyMonkey-Regular.ttf");
+}
+h1{
+    font-family: Happy;
+    text-shadow: 0 2px 1px  black;
+}
+
+
+.git-img{
+    width:400px;
+   border-radius: 10px;
+    border:6px solid white;
+   height:400px;
+   background-image: url(jess-bailey-f94JPVrDbnY-unsplash.jpg);
+   background-size: cover;
+   margin-left: auto;
+    margin-right: auto;
+}
+
+.secondgit-img{
+    width:400px;
+    border-radius: 10px;
+     border:6px solid white;
+    height:400px;
+    background-image: url(jess-bailey-f94JPVrDbnY-unsplash.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.thirdgit-img{
+    width:400px;
+    border-radius: 10px;
+     border:6px solid white;
+    height:400px;
+    background-image: url(jess-bailey-f94JPVrDbnY-unsplash.jpg);
+    background-size: cover;
+    align-items: center; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.fourgit-img{
+    width:400px;
+    border-radius: 10px;
+     border:6px solid white;
+    height:400px;
+    background-image: url(jess-bailey-f94JPVrDbnY-unsplash.jpg);
+    background-size: cover;
+    align-items: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fourgit-img:hover{
+    background-image:url(https://media.giphy.com/media/XrUvyNn7vM3KpsaMao/giphy.gif);
+}
+
+.thirdgit-img:hover{
+    /* background-image:url(); */
+    background-image:url(https://media.giphy.com/media/ckB5razpgN2rd4qTfe/giphy.gif);
+}
+.secondgit-img:hover{
+    background-image:url(https://media.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif);
+}
+.git-img:hover{
+    background-image:url(https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif);
+}
+
+#bday-age{
+    background: #EFB0C9;
+    padding:5px 10px; 
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top:5px;
+    margin:5px 0 10px 0;
+}
+#bday-date{
+    background: #EFB0C9;
+    padding:5px 10px; 
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top:5px;
+    margin:5px 0 10px 0;
+}
+
+/* .bdaydate{ 
+
+}
+
+.bdayage{
+
+} */
+
+body{
+   text-align: center;
+   background-color: #a2d2ff;
+   color:white;
+   display:flex;
+   flex-direction:column;
+   align-items: center; 
+ 
+}
